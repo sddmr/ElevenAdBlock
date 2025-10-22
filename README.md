@@ -1,5 +1,4 @@
 
-````markdown
 # C++ & Python Hybrid Ad Blocker
 
 ![Adblocker GUI](adblockss.png)
