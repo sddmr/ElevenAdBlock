@@ -2,7 +2,7 @@
 ````markdown
 # C++ & Python Hybrid Ad Blocker
 
-![Adblocker GUI](adblockss.jpg)
+![Adblocker GUI](adblockss.png)
 
 A high-performance, DNS-based ad blocker built with a C++ backend and a modern Python (PyQt) frontend.
 
